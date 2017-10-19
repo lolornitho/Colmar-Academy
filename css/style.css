@@ -1,0 +1,59 @@
+a {
+  text-decoration: none;
+}
+
+div {
+  display: block;
+}
+
+/* Header */
+header .content {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  font-size: 20px;
+  font-family: Verdana;
+  line-height: 1.6;
+  border-bottom: 1px solid black;
+}
+
+#logo {
+  display: inline-block;
+}
+
+#logo img {
+  height: 60px;
+  vertical-align: middle;
+  padding-left: 30px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 16px;
+}
+
+nav {
+  display: inline-block;
+  text-align: right;
+  width: 100%;
+  padding-right: 30px;
+}
+
+.content .mobile {
+  display: none;
+}
+
+/* Section 1 */
+
+/* Section 2 */
+
+/* Section 3 */
+
+/* Video section */
+
+/* Footer */
